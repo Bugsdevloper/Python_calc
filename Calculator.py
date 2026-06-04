@@ -9,7 +9,7 @@ except ValueError as e:
 
 
 
-n = input("enter the operation + - * /")
+n = input("enter the operation + - * /").strip()
 
 
 
